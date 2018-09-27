@@ -1,0 +1,132 @@
+﻿@model TreinoMVC.Models.Resultado
+@{
+    ViewBag.Title = "Resultado";
+}
+<h2>Resultado</h2>
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>N1</th>
+        <th>N2</th>
+        <th>N3</th>
+        <th>N4</th>
+        <th>N5</th>
+        <th>N6</th>
+        <th>DATA</th>
+    </tr>
+    @foreach (var jogo in Model.Sorteado)
+    {
+        <tr>
+            <td>@jogo.Id</td>
+            @foreach (var elemento in jogo.Numeros)
+            {
+                foreach (var numero in elemento.Numeros)
+                {
+                    <td>@numero</td>
+                }
+            }
+            <td>@jogo.Data</td>
+
+        </tr>
+    }
+</table>
+
+<div class="container-fluid">
+    <table class="table">
+        <tr>
+            <td>
+                @using (Html.BeginForm("Resultado", "Resultado", FormMethod.Get))
+                {
+                    <button class="btn btn-primary" type="submit" name="limparjogos" id="limparjogos">Sorteio</button>
+                }
+            </td>
+        </tr>
+    </table>
+</div>
+
+<h3>Sena</h3>
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>N1</th>
+        <th>N2</th>
+        <th>N3</th>
+        <th>N4</th>
+        <th>N5</th>
+        <th>N6</th>
+        <th>DATA</th>
+    </tr>
+    @foreach (var jogo in Model.Sena)
+    {
+        <tr>
+            <td>@jogo.Id</td>
+            @foreach (var elemento in jogo.Numeros)
+            {
+                foreach (var numero in elemento.Numeros)
+                {
+                    <td>@numero</td>
+                }
+            }
+            <td>@jogo.Data</td>
+
+        </tr>
+    }
+</table>
+
+<h3>Quina</h3>
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>N1</th>
+        <th>N2</th>
+        <th>N3</th>
+        <th>N4</th>
+        <th>N5</th>
+        <th>N6</th>
+        <th>DATA</th>
+    </tr>
+    @foreach (var jogo in Model.Quina)
+    {
+        <tr>
+            <td>@jogo.Id</td>
+            @foreach (var elemento in jogo.Numeros)
+            {
+                foreach (var numero in elemento.Numeros)
+                {
+                    <td>@numero</td>
+                }
+            }
+            <td>@jogo.Data</td>
+
+        </tr>
+    }
+</table>
+
+<h3>Quadra</h3>
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>N1</th>
+        <th>N2</th>
+        <th>N3</th>
+        <th>N4</th>
+        <th>N5</th>
+        <th>N6</th>
+        <th>DATA</th>
+    </tr>
+    @foreach (var jogo in Model.Quadra)
+    {
+        <tr>
+            <td>@jogo.Id</td>
+            @foreach (var elemento in jogo.Numeros)
+            {
+                foreach (var numero in elemento.Numeros)
+                {
+                    <td>@numero</td>
+                }
+            }
+            <td>@jogo.Data</td>
+
+        </tr>
+    }
+</table>

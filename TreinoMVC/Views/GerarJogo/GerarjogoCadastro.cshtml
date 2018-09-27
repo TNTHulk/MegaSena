@@ -1,0 +1,50 @@
+﻿@model List<TreinoMVC.Models.Jogo>
+@{
+    ViewBag.Title = "GerarJogoView";
+}
+<h2>Gerarjogo</h2>
+
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>N1</th>
+        <th>N2</th>
+        <th>N3</th>
+        <th>N4</th>
+        <th>N5</th>
+        <th>N6</th>
+        <th>Data</th>
+    </tr>
+    @foreach (var jogo in Model)
+    {
+        <tr>
+            <td>@jogo.Id</td>
+            @foreach (var numero in jogo.Numeros)
+            {
+                foreach (var elemento in numero.Numeros)
+                {
+                    <td>@elemento</td>
+                }
+            }
+            <td>@jogo.Data</td>
+        </tr>
+    }
+</table>
+<div class="container-fluid">
+    <table class="table">
+        <tr>
+            <td>
+                @using (Html.BeginForm("GerarjogoCadastro", "GerarJogo", FormMethod.Get))
+                {
+                    <input class="btn btn-primary" type="submit" value="Gerar Jogo" />
+                }
+            </td>
+            <td>
+                @using (Html.BeginForm("Limparjogo", "GerarJogo", FormMethod.Get))
+                {
+                    <input class="btn btn-primary" type="submit" value="Limpar Volante" />
+                }
+            </td>
+        </tr>
+    </table>
+</div>

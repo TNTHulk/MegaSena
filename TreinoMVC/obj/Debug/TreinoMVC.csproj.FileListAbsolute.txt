@@ -1,0 +1,198 @@
+C:\Itix\TreinoMVC\TreinoMVC\bin\ApplicationInsights.config
+C:\Itix\TreinoMVC\TreinoMVC\bin\TreinoMVC.dll.config
+C:\Itix\TreinoMVC\TreinoMVC\bin\TreinoMVC.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\TreinoMVC.pdb
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\csc.exe
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\csc.exe.config
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\csc.rsp
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\csi.exe
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\csi.exe.config
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\csi.rsp
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.AppContext.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.Console.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.IO.Compression.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.Security.Claims.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.ValueTuple.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\vbc.exe
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\vbc.exe.config
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\vbc.rsp
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\VBCSCompiler.exe
+C:\Itix\TreinoMVC\TreinoMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Itix\TreinoMVC\TreinoMVC\bin\Antlr3.Runtime.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\Microsoft.AI.Web.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\Newtonsoft.Json.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\System.Linq.Dynamic.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\System.Web.Helpers.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\System.Web.Mvc.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\System.Web.Optimization.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\System.Web.Razor.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\System.Web.WebPages.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\System.Web.WebPages.Razor.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\WebGrease.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\System.Web.Helpers.xml
+C:\Itix\TreinoMVC\TreinoMVC\bin\System.Web.Mvc.xml
+C:\Itix\TreinoMVC\TreinoMVC\bin\System.Web.Optimization.xml
+C:\Itix\TreinoMVC\TreinoMVC\bin\System.Web.Razor.xml
+C:\Itix\TreinoMVC\TreinoMVC\bin\System.Web.WebPages.xml
+C:\Itix\TreinoMVC\TreinoMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Itix\TreinoMVC\TreinoMVC\bin\System.Web.WebPages.Razor.xml
+C:\Itix\TreinoMVC\TreinoMVC\bin\Newtonsoft.Json.xml
+C:\Itix\TreinoMVC\TreinoMVC\bin\Antlr3.Runtime.pdb
+C:\Itix\TreinoMVC\TreinoMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Itix\TreinoMVC\TreinoMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Itix\TreinoMVC\TreinoMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Itix\TreinoMVC\TreinoMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Itix\TreinoMVC\TreinoMVC\bin\Microsoft.AI.Web.xml
+C:\Itix\TreinoMVC\TreinoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Itix\TreinoMVC\TreinoMVC\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\pt-br\System.Web.Razor.resources.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Itix\TreinoMVC\TreinoMVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Itix\TreinoMVC\TreinoMVC\obj\Debug\TreinoMVC.csproj.CoreCompileInputs.cache
+C:\Itix\TreinoMVC\TreinoMVC\obj\Debug\TreinoMVC.csproj.CopyComplete
+C:\Itix\TreinoMVC\TreinoMVC\obj\Debug\TreinoMVC.dll
+C:\Itix\TreinoMVC\TreinoMVC\obj\Debug\TreinoMVC.pdb
+C:\Itix\TreinoMVC\TreinoMVC\obj\Debug\TreinoMVC.csprojAssemblyReference.cache
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\ApplicationInsights.config
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\TreinoMVC.dll.config
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\TreinoMVC.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\TreinoMVC.pdb
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\csc.exe
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\csc.exe.config
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\csc.rsp
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\csi.exe
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\csi.exe.config
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\csi.rsp
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.AppContext.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.Console.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.IO.Compression.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.Security.Claims.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.ValueTuple.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\vbc.exe
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\vbc.exe.config
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\vbc.rsp
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\VBCSCompiler.exe
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\Antlr3.Runtime.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\Microsoft.AI.Web.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\Newtonsoft.Json.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\System.Linq.Dynamic.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\System.Web.Helpers.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\System.Web.Mvc.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\System.Web.Optimization.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\System.Web.Razor.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\System.Web.WebPages.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\System.Web.WebPages.Razor.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\WebGrease.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\System.Web.Helpers.xml
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\System.Web.Mvc.xml
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\System.Web.Optimization.xml
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\System.Web.Razor.xml
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\System.Web.WebPages.xml
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\System.Web.WebPages.Razor.xml
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\Newtonsoft.Json.xml
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\Antlr3.Runtime.pdb
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\Microsoft.AI.Web.xml
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\pt-br\System.Web.Razor.resources.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\obj\Debug\TreinoMVC.csprojAssemblyReference.cache
+C:\Itix\TreinoMVC 2\TreinoMVC\obj\Debug\TreinoMVC.csproj.CoreCompileInputs.cache
+C:\Itix\TreinoMVC 2\TreinoMVC\obj\Debug\TreinoMVC.csproj.CopyComplete
+C:\Itix\TreinoMVC 2\TreinoMVC\obj\Debug\TreinoMVC.dll
+C:\Itix\TreinoMVC 2\TreinoMVC\obj\Debug\TreinoMVC.pdb

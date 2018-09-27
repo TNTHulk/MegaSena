@@ -1,0 +1,166 @@
+﻿@model List<TreinoMVC.Models.Jogo>
+@{
+    ViewBag.Title = "NovoJogo";
+    ViewBag.n1 = new SelectList(
+        new object[]{
+new { Name = "1", Value = 1 },new { Name = "2", Value = 2 },new { Name = "3", Value = 3 },new { Name = "4", Value = 4 },new { Name = "5", Value = 5 },
+new { Name = "6", Value = 6 },new { Name = "7", Value = 7 },new { Name = "8", Value = 8 },new { Name = "9", Value = 9 },new { Name = "10", Value = 10 },
+new { Name = "11", Value = 11 },new { Name = "12", Value = 12 },new { Name = "13", Value = 13 },new { Name = "14", Value = 14 },new { Name = "15", Value = 15 },
+new { Name = "16", Value = 16 },new { Name = "17", Value = 17 },new { Name = "18", Value = 18 },new { Name = "19", Value = 19 },new { Name = "20", Value = 20 },
+new { Name = "21", Value = 21 },new { Name = "22", Value = 22 },new { Name = "23", Value = 23 },new { Name = "24", Value = 24 },new { Name = "25", Value = 25 },
+new { Name = "26", Value = 26 },new { Name = "27", Value = 27 },new { Name = "28", Value = 28 },new { Name = "29", Value = 29 },new { Name = "30", Value = 10 },
+new { Name = "31", Value = 31 },new { Name = "32", Value = 32 },new { Name = "33", Value = 33 },new { Name = "34", Value = 34 },new { Name = "35", Value = 35 },
+new { Name = "36", Value = 36 },new { Name = "37", Value = 37 },new { Name = "38", Value = 38 },new { Name = "39", Value = 39 },new { Name = "40", Value = 40 },
+new { Name = "41", Value = 41 },new { Name = "42", Value = 42 },new { Name = "43", Value = 43 },new { Name = "44", Value = 44 },new { Name = "45", Value = 35 },
+new { Name = "46", Value = 46 },new { Name = "47", Value = 47 },new { Name = "48", Value = 48 },new { Name = "49", Value = 49 },new { Name = "50", Value = 50 },
+new { Name = "51", Value = 51 },new { Name = "52", Value = 52 },new { Name = "53", Value = 53 },new { Name = "54", Value = 54 },new { Name = "55", Value = 55 },
+new { Name = "56", Value = 56 },new { Name = "57", Value = 57 },new { Name = "58", Value = 58 },new { Name = "59", Value = 59 },new { Name = "60", Value = 60 },
+        }, "Value", "Name");
+    ViewBag.n2 = new SelectList(
+        new object[]{
+new { Name = "1", Value = 1 },new { Name = "2", Value = 2 },new { Name = "3", Value = 3 },new { Name = "4", Value = 4 },new { Name = "5", Value = 5 },
+new { Name = "6", Value = 6 },new { Name = "7", Value = 7 },new { Name = "8", Value = 8 },new { Name = "9", Value = 9 },new { Name = "10", Value = 10 },
+new { Name = "11", Value = 11 },new { Name = "12", Value = 12 },new { Name = "13", Value = 13 },new { Name = "14", Value = 14 },new { Name = "15", Value = 15 },
+new { Name = "16", Value = 16 },new { Name = "17", Value = 17 },new { Name = "18", Value = 18 },new { Name = "19", Value = 19 },new { Name = "20", Value = 20 },
+new { Name = "21", Value = 21 },new { Name = "22", Value = 22 },new { Name = "23", Value = 23 },new { Name = "24", Value = 24 },new { Name = "25", Value = 25 },
+new { Name = "26", Value = 26 },new { Name = "27", Value = 27 },new { Name = "28", Value = 28 },new { Name = "29", Value = 29 },new { Name = "30", Value = 10 },
+new { Name = "31", Value = 31 },new { Name = "32", Value = 32 },new { Name = "33", Value = 33 },new { Name = "34", Value = 34 },new { Name = "35", Value = 35 },
+new { Name = "36", Value = 36 },new { Name = "37", Value = 37 },new { Name = "38", Value = 38 },new { Name = "39", Value = 39 },new { Name = "40", Value = 40 },
+new { Name = "41", Value = 41 },new { Name = "42", Value = 42 },new { Name = "43", Value = 43 },new { Name = "44", Value = 44 },new { Name = "45", Value = 35 },
+new { Name = "46", Value = 46 },new { Name = "47", Value = 47 },new { Name = "48", Value = 48 },new { Name = "49", Value = 49 },new { Name = "50", Value = 50 },
+new { Name = "51", Value = 51 },new { Name = "52", Value = 52 },new { Name = "53", Value = 53 },new { Name = "54", Value = 54 },new { Name = "55", Value = 55 },
+new { Name = "56", Value = 56 },new { Name = "57", Value = 57 },new { Name = "58", Value = 58 },new { Name = "59", Value = 59 },new { Name = "60", Value = 60 },
+        }, "Value", "Name");
+    ViewBag.n3 = new SelectList(
+        new object[]{
+new { Name = "1", Value = 1 },new { Name = "2", Value = 2 },new { Name = "3", Value = 3 },new { Name = "4", Value = 4 },new { Name = "5", Value = 5 },
+new { Name = "6", Value = 6 },new { Name = "7", Value = 7 },new { Name = "8", Value = 8 },new { Name = "9", Value = 9 },new { Name = "10", Value = 10 },
+new { Name = "11", Value = 11 },new { Name = "12", Value = 12 },new { Name = "13", Value = 13 },new { Name = "14", Value = 14 },new { Name = "15", Value = 15 },
+new { Name = "16", Value = 16 },new { Name = "17", Value = 17 },new { Name = "18", Value = 18 },new { Name = "19", Value = 19 },new { Name = "20", Value = 20 },
+new { Name = "21", Value = 21 },new { Name = "22", Value = 22 },new { Name = "23", Value = 23 },new { Name = "24", Value = 24 },new { Name = "25", Value = 25 },
+new { Name = "26", Value = 26 },new { Name = "27", Value = 27 },new { Name = "28", Value = 28 },new { Name = "29", Value = 29 },new { Name = "30", Value = 10 },
+new { Name = "31", Value = 31 },new { Name = "32", Value = 32 },new { Name = "33", Value = 33 },new { Name = "34", Value = 34 },new { Name = "35", Value = 35 },
+new { Name = "36", Value = 36 },new { Name = "37", Value = 37 },new { Name = "38", Value = 38 },new { Name = "39", Value = 39 },new { Name = "40", Value = 40 },
+new { Name = "41", Value = 41 },new { Name = "42", Value = 42 },new { Name = "43", Value = 43 },new { Name = "44", Value = 44 },new { Name = "45", Value = 35 },
+new { Name = "46", Value = 46 },new { Name = "47", Value = 47 },new { Name = "48", Value = 48 },new { Name = "49", Value = 49 },new { Name = "50", Value = 50 },
+new { Name = "51", Value = 51 },new { Name = "52", Value = 52 },new { Name = "53", Value = 53 },new { Name = "54", Value = 54 },new { Name = "55", Value = 55 },
+new { Name = "56", Value = 56 },new { Name = "57", Value = 57 },new { Name = "58", Value = 58 },new { Name = "59", Value = 59 },new { Name = "60", Value = 60 },
+        }, "Value", "Name");
+    ViewBag.n4 = new SelectList(
+        new object[]{
+new { Name = "1", Value = 1 },new { Name = "2", Value = 2 },new { Name = "3", Value = 3 },new { Name = "4", Value = 4 },new { Name = "5", Value = 5 },
+new { Name = "6", Value = 6 },new { Name = "7", Value = 7 },new { Name = "8", Value = 8 },new { Name = "9", Value = 9 },new { Name = "10", Value = 10 },
+new { Name = "11", Value = 11 },new { Name = "12", Value = 12 },new { Name = "13", Value = 13 },new { Name = "14", Value = 14 },new { Name = "15", Value = 15 },
+new { Name = "16", Value = 16 },new { Name = "17", Value = 17 },new { Name = "18", Value = 18 },new { Name = "19", Value = 19 },new { Name = "20", Value = 20 },
+new { Name = "21", Value = 21 },new { Name = "22", Value = 22 },new { Name = "23", Value = 23 },new { Name = "24", Value = 24 },new { Name = "25", Value = 25 },
+new { Name = "26", Value = 26 },new { Name = "27", Value = 27 },new { Name = "28", Value = 28 },new { Name = "29", Value = 29 },new { Name = "30", Value = 10 },
+new { Name = "31", Value = 31 },new { Name = "32", Value = 32 },new { Name = "33", Value = 33 },new { Name = "34", Value = 34 },new { Name = "35", Value = 35 },
+new { Name = "36", Value = 36 },new { Name = "37", Value = 37 },new { Name = "38", Value = 38 },new { Name = "39", Value = 39 },new { Name = "40", Value = 40 },
+new { Name = "41", Value = 41 },new { Name = "42", Value = 42 },new { Name = "43", Value = 43 },new { Name = "44", Value = 44 },new { Name = "45", Value = 35 },
+new { Name = "46", Value = 46 },new { Name = "47", Value = 47 },new { Name = "48", Value = 48 },new { Name = "49", Value = 49 },new { Name = "50", Value = 50 },
+new { Name = "51", Value = 51 },new { Name = "52", Value = 52 },new { Name = "53", Value = 53 },new { Name = "54", Value = 54 },new { Name = "55", Value = 55 },
+new { Name = "56", Value = 56 },new { Name = "57", Value = 57 },new { Name = "58", Value = 58 },new { Name = "59", Value = 59 },new { Name = "60", Value = 60 },
+        }, "Value", "Name");
+    ViewBag.n5 = new SelectList(
+        new object[]{
+new { Name = "1", Value = 1 },new { Name = "2", Value = 2 },new { Name = "3", Value = 3 },new { Name = "4", Value = 4 },new { Name = "5", Value = 5 },
+new { Name = "6", Value = 6 },new { Name = "7", Value = 7 },new { Name = "8", Value = 8 },new { Name = "9", Value = 9 },new { Name = "10", Value = 10 },
+new { Name = "11", Value = 11 },new { Name = "12", Value = 12 },new { Name = "13", Value = 13 },new { Name = "14", Value = 14 },new { Name = "15", Value = 15 },
+new { Name = "16", Value = 16 },new { Name = "17", Value = 17 },new { Name = "18", Value = 18 },new { Name = "19", Value = 19 },new { Name = "20", Value = 20 },
+new { Name = "21", Value = 21 },new { Name = "22", Value = 22 },new { Name = "23", Value = 23 },new { Name = "24", Value = 24 },new { Name = "25", Value = 25 },
+new { Name = "26", Value = 26 },new { Name = "27", Value = 27 },new { Name = "28", Value = 28 },new { Name = "29", Value = 29 },new { Name = "30", Value = 10 },
+new { Name = "31", Value = 31 },new { Name = "32", Value = 32 },new { Name = "33", Value = 33 },new { Name = "34", Value = 34 },new { Name = "35", Value = 35 },
+new { Name = "36", Value = 36 },new { Name = "37", Value = 37 },new { Name = "38", Value = 38 },new { Name = "39", Value = 39 },new { Name = "40", Value = 40 },
+new { Name = "41", Value = 41 },new { Name = "42", Value = 42 },new { Name = "43", Value = 43 },new { Name = "44", Value = 44 },new { Name = "45", Value = 35 },
+new { Name = "46", Value = 46 },new { Name = "47", Value = 47 },new { Name = "48", Value = 48 },new { Name = "49", Value = 49 },new { Name = "50", Value = 50 },
+new { Name = "51", Value = 51 },new { Name = "52", Value = 52 },new { Name = "53", Value = 53 },new { Name = "54", Value = 54 },new { Name = "55", Value = 55 },
+new { Name = "56", Value = 56 },new { Name = "57", Value = 57 },new { Name = "58", Value = 58 },new { Name = "59", Value = 59 },new { Name = "60", Value = 60 },
+        }, "Value", "Name");
+    ViewBag.n6 = new SelectList(
+        new object[]{
+new { Name = "1", Value = 1 },new { Name = "2", Value = 2 },new { Name = "3", Value = 3 },new { Name = "4", Value = 4 },new { Name = "5", Value = 5 },
+new { Name = "6", Value = 6 },new { Name = "7", Value = 7 },new { Name = "8", Value = 8 },new { Name = "9", Value = 9 },new { Name = "10", Value = 10 },
+new { Name = "11", Value = 11 },new { Name = "12", Value = 12 },new { Name = "13", Value = 13 },new { Name = "14", Value = 14 },new { Name = "15", Value = 15 },
+new { Name = "16", Value = 16 },new { Name = "17", Value = 17 },new { Name = "18", Value = 18 },new { Name = "19", Value = 19 },new { Name = "20", Value = 20 },
+new { Name = "21", Value = 21 },new { Name = "22", Value = 22 },new { Name = "23", Value = 23 },new { Name = "24", Value = 24 },new { Name = "25", Value = 25 },
+new { Name = "26", Value = 26 },new { Name = "27", Value = 27 },new { Name = "28", Value = 28 },new { Name = "29", Value = 29 },new { Name = "30", Value = 10 },
+new { Name = "31", Value = 31 },new { Name = "32", Value = 32 },new { Name = "33", Value = 33 },new { Name = "34", Value = 34 },new { Name = "35", Value = 35 },
+new { Name = "36", Value = 36 },new { Name = "37", Value = 37 },new { Name = "38", Value = 38 },new { Name = "39", Value = 39 },new { Name = "40", Value = 40 },
+new { Name = "41", Value = 41 },new { Name = "42", Value = 42 },new { Name = "43", Value = 43 },new { Name = "44", Value = 44 },new { Name = "45", Value = 35 },
+new { Name = "46", Value = 46 },new { Name = "47", Value = 47 },new { Name = "48", Value = 48 },new { Name = "49", Value = 49 },new { Name = "50", Value = 50 },
+new { Name = "51", Value = 51 },new { Name = "52", Value = 52 },new { Name = "53", Value = 53 },new { Name = "54", Value = 54 },new { Name = "55", Value = 55 },
+new { Name = "56", Value = 56 },new { Name = "57", Value = 57 },new { Name = "58", Value = 58 },new { Name = "59", Value = 59 },new { Name = "60", Value = 60 },
+        }, "Value", "Name");
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Novo Jogo</title>
+</head>
+<body>
+    <table class="table">
+        <tr>
+            <th>ID</th>
+            <th>N1</th>
+            <th>N2</th>
+            <th>N3</th>
+            <th>N4</th>
+            <th>N5</th>
+            <th>N6</th>
+            <th>Data</th>
+        </tr>
+        @foreach (var jogo in Model)
+        {
+            <tr>
+                <td>@jogo.Id</td>
+                @foreach (var numero in jogo.Numeros)
+                {
+                    foreach (var elemento in numero.Numeros)
+                    {
+                        <td>@elemento</td>
+                    }
+                }
+                <td>@jogo.Data</td>
+            </tr>
+        }
+    </table>
+
+    <table class="table">
+        <tr>
+            <th>N1</th>
+            <th>N2</th>
+            <th>N3</th>
+            <th>N4</th>
+            <th>N5</th>
+            <th>N6</th>
+            <th> </th>
+        </tr>
+
+        @using (Html.BeginForm("NovojogoCadastro", "NovoJogo", FormMethod.Post))
+        {
+            <tr>
+                <td>@Html.DropDownList("n1")</td>
+                <td>@Html.DropDownList("n2")</td>
+                <td>@Html.DropDownList("n3")</td>
+                <td>@Html.DropDownList("n4")</td>
+                <td>@Html.DropDownList("n5")</td>
+                <td>@Html.DropDownList("n6")</td>
+            </tr>
+            <tr>
+                <td>
+                    <input class="btn btn-primary" type="submit" value="Jogar" />
+                </td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        }
+    </table>
+</body>
+</html>
+
+
